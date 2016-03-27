@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/IPFinder/IPFinder.iml" filepath="$PROJECT_DIR$/IPFinder/IPFinder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MultiEchoClient/MultiEchoClient.iml" filepath="$PROJECT_DIR$/MultiEchoClient/MultiEchoClient.iml" group="TCPSocketMultihreading" />
+      <module fileurl="file://$PROJECT_DIR$/MultiEchoServer/MultiEchoServer.iml" filepath="$PROJECT_DIR$/MultiEchoServer/MultiEchoServer.iml" group="TCPSocketMultihreading" />
+      <module fileurl="file://$PROJECT_DIR$/MyLocalIPAddress/MyLocalIPAddress.iml" filepath="$PROJECT_DIR$/MyLocalIPAddress/MyLocalIPAddress.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TCPEchoClient/TCPEchoClient.iml" filepath="$PROJECT_DIR$/TCPEchoClient/TCPEchoClient.iml" group="TCPSocket" />
+      <module fileurl="file://$PROJECT_DIR$/TCPEchoServer/TCPEchoServer.iml" filepath="$PROJECT_DIR$/TCPEchoServer/TCPEchoServer.iml" group="TCPSocket" />
+      <module fileurl="file://$PROJECT_DIR$/ThreadSynchronization/ThreadSynchronization.iml" filepath="$PROJECT_DIR$/ThreadSynchronization/ThreadSynchronization.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UDPEchoClient/UDPEchoClient.iml" filepath="$PROJECT_DIR$/UDPEchoClient/UDPEchoClient.iml" group="UDPSocket" />
+      <module fileurl="file://$PROJECT_DIR$/UDPEchoServer/UDPEchoServer.iml" filepath="$PROJECT_DIR$/UDPEchoServer/UDPEchoServer.iml" group="UDPSocket" />
+    </modules>
+  </component>
+</project>
